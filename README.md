@@ -1,4 +1,4 @@
-** scRNA-seq data on influenza infected human nasal wash samples **
+# scRNA-seq data on influenza infected human nasal wash samples 
 This repository contains scripts for the study on influenza virus infected human nasal wash samples using scRNA-seq: 
 >Cao Y*, Guo Z*, Vangala P, Donnard E, Liu P, McDonel P, Ordovas-Montanes J, Finberg RW, Wang JW#, and Garber M# “Single cell analysis of upper airway cells reveals host and viral dynamics in influenza-infected adults.” bioRxiv.  
 
